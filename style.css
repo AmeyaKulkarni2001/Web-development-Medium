@@ -1,0 +1,67 @@
+body {
+  background-color: #f0e4d7;
+  margin: 0;
+  text-align: center;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Architects Daughter', cursive;
+  font-size: 4rem;
+  color: #3a6351;
+}
+
+h2 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 2.5rem;
+  color: #3a6351;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999E;
+}
+
+.me {
+  height: 200px;
+  width: 200px;
+  padding-top: 50px;
+}
+
+.top {
+  background-color: #f0e4d7;
+  position: relative;
+  padding-top: 100px;
+}
+
+.btm-cloud {
+  position: absolute;
+  left: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 100px;
+  top: 50px;
+}
+
+.mount {
+  position: relative;
+  bottom: 25px;
+}
+
+a {
+  color: #3a6351;
+}
+
+.sk {
+  float: left;
+  height: 200px;
+  width: 400px;
+}
