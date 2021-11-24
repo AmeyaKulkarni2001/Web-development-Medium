@@ -15,14 +15,14 @@ p {
 
 .skill-row {
   width: 50%;
-  margin: 100px auto 100px auto;
+  margin: 100px auto;
   text-align: left;
   line-height: 2;
 }
 
 .contact-me {
   width: 50%;
-  margin: 100px auto 100px auto;
+  margin: 100px auto;
 }
 
 h1 {
@@ -62,16 +62,16 @@ a:hover {
 }
 
 .me {
-  height: 200px;
-  width: 200px;
+  height: 50vh;
+  width: 25vw;
   padding-top: 50px;
 }
 
 .top {
   background-color: #f0e4d7;
   position: relative;
-  padding-top: 100px;
-  padding-bottom: 50px;
+  padding-top: 13vh;
+  padding-bottom: 5vh;
 }
 .middle{
   background-color: #EAF6F6;
@@ -162,4 +162,8 @@ hr {
 .cntc {
   width: 40%;
   margin: 40px auto 60px;
+}
+
+.footer-link {
+  color: #ffff
 }
